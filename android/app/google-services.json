@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "654758117299",
+    "firebase_url": "https://patient-d9fd8-default-rtdb.firebaseio.com",
+    "project_id": "patient-d9fd8",
+    "storage_bucket": "patient-d9fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654758117299:android:f31ca90bb52f030c2515c6",
+        "android_client_info": {
+          "package_name": "com.example.patient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM7ohle13paZ07sKK-56rHsuqfhZohgxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
